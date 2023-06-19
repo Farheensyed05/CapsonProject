@@ -1,2 +1,2 @@
-# Capsonproject
-Olympic Data Analysis using Python and Pyspark
+# Olympic Data Analysis using Python and Pyspark
+
